@@ -1,0 +1,19 @@
+{
+  "name": "文々。新聞",
+  "short_name": "文々新聞",
+  "description": "每日中日六城天气、时政财经科技、IVD/CDx 与摄影文化简报",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#B22B22",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

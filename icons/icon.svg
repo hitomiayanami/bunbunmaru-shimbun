@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#FAF6EE"/>
+  <rect x="36" y="36" width="440" height="440" rx="72" fill="none" stroke="#1F242D" stroke-width="14"/>
+  <rect x="54" y="54" width="404" height="404" rx="58" fill="none" stroke="#1F242D" stroke-width="4"/>
+  <text x="256" y="235" text-anchor="middle" font-family="'Hiragino Mincho ProN', 'Songti SC', serif" font-size="140" font-weight="700" fill="#1F242D">文々</text>
+  <rect x="176" y="310" width="160" height="96" rx="14" fill="#B22B22"/>
+  <text x="256" y="378" text-anchor="middle" font-family="'PingFang SC', 'Hiragino Sans', sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">新聞</text>
+</svg>

@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-26",
+  "editionTitle": "2026年11月26日（木）",
+  "summaryRows": [
+    { "label": "假期倒计时", "value": "距下周末 2天(11/28) ｜ 距日本元日 36天(1/1) ｜ 距中国元旦 36天(1/1)" },
+    { "label": "工作日提醒", "value": "🇨🇳 周四工作日(无调休, 距周末2天) ｜ 🇯🇵 周四工作日(正常双休, 距周末2天)" },
+    { "label": "实时汇率", "value": "USD/JPY 159.17 ｜ CNY/JPY 23.88 ｜ USD/CNY 6.66 (18:30 JST)" },
+    { "label": "亚太股市", "value": "日经225 57,499.16(▲0.86%) ｜ KOSPI 4,711.21(▲0.29%) ｜ 上证 3,476.88(▲0.01%) ｜ 深成 10,084.04(▼0.02%)" },
+    { "label": "美股收盘", "value": "道琼斯 50,182.95(▲0.33%) ｜ 标普500 7,182.78(▼0.25%) ｜ 纳斯达克 23,585.80(▼0.62%) (11/25)" }
+  ],
+  "weatherSectionTitle": "明日六城天气・生活指数（2026–11–27 周五｜US EPA AQI 标准）",
+  "weatherCities": [
+    { "name": "上海", "iconTemp": "☀️ 晴  20 / 10℃", "meta": "无降水｜暂无预警｜花粉极低｜US AQI 90(中等·PM2.5)", "advice": "穿衣: 薄外套+牛仔裤｜带伞: 否｜紫外线强注意防晒", "url": "https://www.weather.com.cn/weather/101020100.shtml" },
+    { "name": "天津", "iconTemp": "☀️ 晴  11 / 2℃", "meta": "北风4-5级转3-4级｜暂无预警｜花粉极低｜US AQI 65(中等)", "advice": "穿衣: 棉衣+羊毛衫｜带伞: 否｜今日184明日明显转好", "url": "https://www.weather.com.cn/weather/101030100.shtml" },
+    { "name": "东京", "iconTemp": "⛅ 晴时多云  18 / 7℃", "meta": "降水40%(晚)｜⚠️干燥注意报｜非飞散期｜US AQI 62(中等)", "advice": "穿衣: 洋葱穿衣｜带伞: 晚归备伞｜最小湿度14%注意加湿", "url": "https://tenki.jp/forecast/3/16/4410/13101/10days.html" },
+    { "name": "大阪", "iconTemp": "🌦️ 晴转雨  20 / 8℃", "meta": "降水90%(午后起4mm)｜⚠️干燥注意报｜US AQI 62(中等)", "advice": "穿衣: 厚外套｜带伞: 是(午后转雨)｜早晚温差明显", "url": "https://tenki.jp/forecast/6/30/6200/27100/10days.html" },
+    { "name": "名古屋", "iconTemp": "🌦️ 晴转雨  18 / 5℃", "meta": "降水90%(晚间5mm)｜暂无警报｜非飞散期｜US AQI 57(中等)", "advice": "穿衣: 厚外套+内搭｜带伞: 是(晚归)｜早间5℃注意防寒", "url": "https://tenki.jp/forecast/5/26/5110/23100/10days.html" },
+    { "name": "福冈", "iconTemp": "🌦️ 雨时晴  21 / 12℃", "meta": "降水70%(全天5mm)｜暂无警报｜非飞散期｜US AQI 61(中等)", "advice": "穿衣: 风衣/薄外套｜带伞: 是｜南风偏暖体感较舒适", "url": "https://tenki.jp/forecast/9/43/8210/40130/10days.html" }
+  ],
+  "specialReport": {
+    "title": "【特輯・日本 12 月偏暖早期天候情报 & 我国南北温差加剧】",
+    "body": "日本气象厅今日（26日）发布 1 个月预报及高温早期天候情报，指出 12 月前半全国气温将显著偏高；今日东京早间虽录得 3.9℃（五年来 11 月最低温）且关东最小湿度低至 14% 触发干燥火灾警戒，但 28 日周末全国迎雨后，12 月初东京有望重回 20℃ 以上。国内方面，南方雨后转晴开启“小阳春”，明日上海最高温升至 20℃，月底南京、合肥等暖意或破纪录；同时新疆与内蒙古局地受冷空气与强降雪影响，南北温差进一步拉大。",
+    "sources": [
+      { "name": "tenki.jp", "url": "https://tenki.jp/forecast/3/16/4410/13101/10days.html" },
+      { "name": "中国天气网", "url": "https://www.weather.com.cn/weather/101020100.shtml" }
+    ]
+  },
+  "pages": [
+    {
+      "id": "page1",
+      "tabLabel": "第一面",
+      "fullLabel": "第一面｜要闻・中国",
+      "sections": [
+        {
+          "title": "今日中国新闻",
+          "theme": "charcoal",
+          "layout": "two-col",
+          "items": [
+            { "title": "商务部欢迎欧方将玉沙集团移出涉俄制裁清单", "body": "商务部今日回应称，欢迎欧方将玉沙集团移出涉俄出口管制制裁清单，认为此举有助于维护中欧经贸互信与产业链稳定；中方目前正依法依规评估欧盟相关企业的移单申请，推动双边合规贸易顺畅开展。", "sourceName": "人民网", "sourceURL": "http://world.people.com.cn/n1/2026/1126/c1002-40841098.html" },
+            { "title": "商务部坚决反对美国对中国等经济体加征 301 关税", "body": "针对美方对中国等经济体加征 301 关税的举措，商务部发言人今日重申坚决反对单边主义与贸易保护主义做法，指出此举严重违背世贸组织规则，不利于全球通胀缓和与供应链稳定。", "sourceName": "中新网", "sourceURL": "https://www.chinanews.com.cn/cj/2026/11-26/10738091.shtml" },
+            { "title": "蔡奇在京会见古巴共产党干部考察团", "body": "蔡奇今日在京会见古巴共产党干部考察团，双方就治党治国经验交流、青年干部培养及深化两党传统友谊与务实合作达成广泛共识。", "sourceName": "人民网", "sourceURL": "http://politics.people.com.cn/BIG5/n1/2026/1126/c1024-40840506.html" },
+            { "title": "王毅同荷兰外交大臣贝伦德森会谈并发表共识声明", "body": "王毅今日在北京同荷兰外交大臣贝伦德森举行会谈并发表共识声明，双方同意秉持开放务实精神，共同维护中荷及中欧经贸、科技与人文交流顺畅。", "sourceName": "人民网", "sourceURL": "http://politics.people.com.cn/n1/2026/1126/c1001-40840519.html" },
+            { "title": "北京市科委公示第二批城市科技“揭榜挂帅”拟立项课题", "body": "北京市科委今日正式公示 2026 年第二批城市科技与精细化管理“揭榜挂帅”拟立项课题，聚焦智慧城市治理、交通调度与城市运行韧性痛点，加速技术落地。", "sourceName": "北京市科委", "sourceURL": "https://kw.beijing.gov.cn/zwgk/tzgg/202611/t20261126_4958430.html" },
+            { "title": "北京丰台发布多项数字金融创新成果", "body": "北京丰台区今日集中发布多项数字金融创新应用成果，围绕跨境结算便利化、数字人民币场景拓展及金融科技基础设施建设持续发力，助力区域产业集聚。", "sourceName": "人民网北京", "sourceURL": "http://bj.people.com.cn/BIG5/n2/2026/1126/c14540-41761699.html" },
+            { "title": "《2026 浙商研究报告》发布，发展动力向“新”向“优”", "body": "报告今日在杭发布，系统梳理民营经济在人工智能、高端制造及跨境电商领域的跃升趋势，显示浙商群体正加速由传统要素驱动转向科技创新与绿色低碳双轮驱动。", "sourceName": "中新网", "sourceURL": "https://www.chinanews.com.cn/cj/2026/11-26/10737994.shtml" },
+            { "title": "瑞银预测 2030 年中国本土 AI 加速卡市场逼近 2 万亿元", "body": "瑞银证券最新研报测算，受国产算力替代与大模型推理需求爆发拉动，到 2030 年中国本土 AI 加速卡市场规模将达到约 3,000 亿美元（近 2 万亿元人民币），年出货量有望突破 1,040 万颗。", "sourceName": "City News Service", "sourceURL": "https://www.citynewsservice.cn/articles/daily-buzz-26-november-2026-pk8vegvn" },
+            { "title": "理想汽车 Q3 营收增 5.4%，披露 2027 年轮式机器人规划", "body": "理想汽车披露三季度营收同比增长 5.4% 至 288 亿元、净亏损同比大幅收窄 41%，盈利韧性持续改善；公司同时公布 2027 年在制造工厂部署轮式机器人的智能制造规划。", "sourceName": "City News Service", "sourceURL": "https://www.citynewsservice.cn/articles/daily-buzz-26-november-2026-pk8vegvn" },
+            { "title": "金山软件净利增 12%，金山云同比暴增 40% 创五年新高", "body": "金山软件公布最新季度业绩，调整后净利润同比增长 12%；旗下金山云受 AI 算力与企业云需求拉动，单季营收同比大增 40%，创下近五年来最高增速。", "sourceName": "City News Service", "sourceURL": "https://www.citynewsservice.cn/articles/daily-buzz-26-november-2026-pk8vegvn" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "page2",
+      "tabLabel": "第二面",
+      "fullLabel": "第二面｜日本・全球政治",
+      "sections": [
+        {
+          "title": "今日日本新闻",
+          "theme": "charcoal",
+          "layout": "two-col",
+          "items": [
+            { "title": "在野 8 党派联合向参院提交文科相问责决议案", "body": "立宪民主党等参议院在野 8 党派今日联合向参院提交针对文部科学大臣关芳弘的问责决议案，围绕相关教育及行政答辩争议加大对内阁的追责力度，朝野国会攻防进一步升温。", "sourceName": "立宪民主党", "sourceURL": "https://cdp-japan.jp/news/20261126_0789" },
+            { "title": "日本政府向自民党提交“安保 3 文件”经济安保概要", "body": "日本政府今日在自民党相关会议上提交拟写入修订版“安保 3 文件”的经济安全保障政策概要，重点强化半导体、关键矿产供应链韧性及尖端技术防外流机制。", "sourceName": "KAB/朝日新闻", "sourceURL": "https://www.kab.co.jp/news/article/17080061" },
+            { "title": "9 月日本贷款利率升至 30 年新高，中小企业承压", "body": "最新统计显示 9 月日本国内银行新增贷款利率攀升至近 30 年来最高水平，随着日本央行货币政策正常化推进，市场担忧借贷成本上升将挤压地方中小企业的利润与扩产意愿。", "sourceName": "圣教新闻/时事", "sourceURL": "https://www.seikyoonline.com/news/jiji/" },
+            { "title": "《公益通报者保护法》强化版明确对报复行为引入刑事罚则", "body": "日本强化版《公益通报者保护法》正式明确对企业或机构报复内部举报者的处分引入刑事罚则，进一步筑牢职场吹哨人制度保障与企业合规治理防线。", "sourceName": "圣教新闻/时事", "sourceURL": "https://www.seikyoonline.com/news/jiji/" },
+            { "title": "JR 芸备线拟推全国首例“巴士转换”方案，明年 3 月敲定", "body": "围绕地方亏损铁路线存废问题，连接冈山与广岛的 JR 芸备线拟推进日本全国首例“巴士转换”重组方案，相关运营细节与接驳安排计划于明年 3 月最终敲定。", "sourceName": "圣教新闻/时事", "sourceURL": "https://www.seikyoonline.com/news/jiji/" },
+            { "title": "PayPay 凌晨突发系统故障致信用支付一度受阻", "body": "日本移动支付巨头 PayPay 今日凌晨出现系统故障，导致 PayPay Credit 功能一度无法正常使用，引发部分早间通勤与便利店消费用户不便，官方随后紧急排查恢复。", "sourceName": "KAB", "sourceURL": "https://www.kab.co.jp/news/article/17080061" },
+            { "title": "日本职棒 MVP 揭晓，佐藤与平良确认赴美挑战 MLB", "body": "日本职棒年度 MVP 评选今日揭晓，佐藤与栗原分别摘得桂冠；同时跨洋转会传出重磅消息，佐藤已与芝加哥小熊队达成协议，投手平良则将转战多伦多蓝鸟队。", "sourceName": "圣教新闻/时事", "sourceURL": "https://www.seikyoonline.com/news/jiji/" },
+            { "title": "JETRO 联合 GX 推进机构在德推动日欧清洁能源合作", "body": "日本贸易振兴机构（JETRO）携手绿色转型（GX）推进机构在德国举办对接交流活动，促进日欧企业在氢能、储能及脱碳技术领域的联合研发与商业落地。", "sourceName": "JETRO", "sourceURL": "https://www.jetro.go.jp/biznews/2026/11/f9c04dd8df425832.html" }
+          ]
+        },
+        {
+          "title": "今日全球政治新闻",
+          "theme": "charcoal",
+          "layout": "two-col",
+          "items": [
+            { "title": "德国总理默茨警告俄罗斯战略意图，呼吁强化长期援乌", "body": "德国总理默茨（Merz）今日发表讲话警告称“俄罗斯所图不止于乌克兰”，呼吁欧洲盟友摆脱短期摇摆，进一步加大对乌克兰的防务与财政长期支持力度。", "sourceName": "Japan Times", "sourceURL": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/russia-ukraine-germany-merz-aid/" },
+            { "title": "特别欧洲理事会峰会启幕，聚焦长期预算与欧央行换届", "body": "欧盟今日起举行为期两天的特别峰会（11/26-27），27 国领导人重点磋商 2028-2034 年欧盟长期预算框架、2027 年对乌融资方案以及欧洲央行高层人事换届。", "sourceName": "European Council", "sourceURL": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/" },
+            { "title": "特朗普关税立场分析：核心在于政治筹码而非民意", "body": "外媒今日分析指出，特朗普政府坚持广泛加征关税的核心逻辑在于将其作为对外博弈的权力工具与谈判筹码，尽管部分通胀传导引发选民顾虑，但白宫仍将关税视为优先政策杠杆。", "sourceName": "Japan Times", "sourceURL": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/trump-tariffs-power-popularity/" },
+            { "title": "美国官方饥荒监测机制因经费短缺暂停发布报告", "body": "负责全球粮食危机预警的美国官方饥荒预警系统网络（FEWS NET）宣布，因资金与人员严重短缺被迫暂停发布常规监测报告，引发国际救援机构对非洲及中东饥荒盲区的担忧。", "sourceName": "Japan Times", "sourceURL": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/us-famine-monitor-funding-staff/" },
+            { "title": "美国感恩节假期开启，多国使领馆及联邦机构休假", "body": "随着美国感恩节假期（11/26-29）到来，美国国务院驻多国使领馆及国内联邦行政机构今日起暂停常规领事与政务办公，仅保留紧急公民服务通道。", "sourceName": "US Embassy", "sourceURL": "https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-november-24-2026/" },
+            { "title": "西班牙大选前瞻升温，市场紧盯政局与经济政策转向", "body": "西班牙大选临近引发欧洲政经界高度关注，民调显示选情胶着，投资者正密切评估潜在政权更迭对当地财税、能源补贴及移民政策方向的影响。", "sourceName": "Gaitame", "sourceURL": "https://www.gaitame.com/media/entry/2026/11/26/164408" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "page3",
+      "tabLabel": "第三面",
+      "fullLabel": "第三面｜全球经济・科技",
+      "sections": [
+        {
+          "title": "今日全球经济新闻",
+          "theme": "charcoal",
+          "layout": "two-col",
+          "items": [
+            { "title": "韩国央行召开年内最后一次议息会议，预期加息至 3.25%", "body": "韩国央行（BoK）今日举行货币政策会议，面对通胀粘性与汇率波动压力，市场普遍预期其将上调基准利率 25 个基点至 3.25%，并密切关注行长对明年利率路径的指引。", "sourceName": "InvestingLive", "sourceURL": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-26-2026-bok-boj-turkey-later/" },
+            { "title": "美股感恩节前夕科技股续跌，标普提示英伟达展望风险", "body": "周三美股收盘道指涨 0.33% 再创新高，但科技股承压拖累纳指跌 0.62%、标普 500 跌 0.25%；标普全球评级提示因公司治理风险存在下调英伟达评级展望至负面的可能。", "sourceName": "City News Service", "sourceURL": "https://www.citynewsservice.cn/articles/daily-buzz-26-november-2026-pk8vegvn" },
+            { "title": "亚太股市今日企稳反弹，逢低买盘消化隔夜波动", "body": "受隔夜美股尾盘跌幅收窄带动，今日亚太主要股指普遍企稳回升，日经 225 收涨 0.86%，韩国 KOSPI 涨 0.29%，资金在假日清淡交投中逢低吸纳蓝筹与出口板块。", "sourceName": "The Edge Singapore", "sourceURL": "https://www.theedgesingapore.com/news/highlight/asian-stocks-set-gains-after-late-us-rebound" },
+            { "title": "大宗商品承压，金价退守 3,425 美元关口附近", "body": "受美元波动与对冲基金转空金属板块影响，现货黄金价格回落至 3,425 美元关键支撑位附近震荡，欧洲矿业股及国际铜价亦同步走软。", "sourceName": "Canadian Mining Report", "sourceURL": "https://www.canadianminingreport.com/blog/why-gold-silver-and-copper-dropped-alongside-the-dollar-as-tech-and-credit-stumbled" },
+            { "title": "欧盟秋季经济预测：通胀回升下欧元区仍保持温和增长", "body": "欧盟委员会发布秋季经济展望报告指出，尽管能源价格扰动导致短期通胀小幅回升，但得益于就业韧性与服务业支撑，欧元区经济仍有望维持温和扩张态势。", "sourceName": "European Commission", "sourceURL": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/autumn-2026-economic-forecast-shows-continued-growth-amid-higher-inflation_en" },
+            { "title": "欧洲央行发布 11 月《金融稳定评估》", "body": "欧洲央行（ECB）公布最新半年度金融稳定报告，提醒关注高利率环境下商业地产估值重估、主权债务偿付压力及非银金融机构流动性错配风险。", "sourceName": "ECB", "sourceURL": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html" }
+          ]
+        },
+        {
+          "title": "今日全球科技新闻（含影像器材）",
+          "theme": "charcoal",
+          "layout": "two-col",
+          "items": [
+            { "title": "SpaceX 获美政府批准推进“太空数据中心”项目", "body": "美国监管机构正式批准 SpaceX 发射并部署首批轨道计算节点，旨在利用太空低温散热与太阳能优势探索低延迟轨道云计算，开启星链基础设施向算力网络延伸的新阶段。", "sourceName": "Japan Times", "sourceURL": "https://www.japantimes.co.jp/news/2026/11/26/world/spacex-space-data-centers/" },
+            { "title": "速腾聚创发布 Q3 财报，机器人激光雷达销量全球第一", "body": "速腾聚创（RoboSense）今日公布 2026 年第三季度未经审计财报，凭借在割草机器人、工业物流及具身智能领域的快速放量，其机器人激光雷达单季销量登顶全球第一。", "sourceName": "PR Newswire", "sourceURL": "https://www.prnewswire.com/apac/news-releases/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally-302951010.html" },
+            { "title": "Google Cogentic AI 单日发布 6 篇数学论文", "body": "Google 旗下科研大模型团队展示自主数学推理突破，一日内连续发布 6 篇高质量数学研究论文，涵盖复杂证明验证与组合优化领域，展现 AI 辅助基础科学研究的加速态势。", "sourceName": "Google Research", "sourceURL": "https://research.google/" },
+            { "title": "传 MacBook Air OLED 改款将于 2027-2028 年推出", "body": "供应链消息称苹果正推进全系 Mac 屏幕向 OLED 迁移，轻薄主力机型 MacBook Air 预计将在 2027 年至 2028 年间迎来 OLED 面板升级，有望带来更高对比度与更长续航。", "sourceName": "DIGITIMES", "sourceURL": "https://www.digitimes.com/calendar.php?d=7d" },
+            { "title": "AI 购物代理加速兴起，重塑消费退换与订阅管理体验", "body": "人工智能购物代理正快速走进日常消费场景，能够自动帮用户处理跨平台比价、售后退货及取消冗余订阅等繁琐流程，大幅降低消费者时间摩擦成本。", "sourceName": "Emergent", "sourceURL": "https://emergent.sh/news/ai-shopping-agents-save-consumers-annoyance" },
+            { "title": "软件股在芯片回调中展现抗跌韧性，AI 链面临 KYC 审查延迟", "body": "市场观察显示，企业软件股在近期半导体板块高位回调中展现出显著的抗跌韧性；另一方面，AI 硬件供应链因合规与 KYC 审查范围扩大，部分高阶服务器出货节奏出现延迟。", "sourceName": "FT / DIGITIMES", "sourceURL": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1" },
+            { "title": "影像器材｜富士胶片计划推出全新 Instax 拍立得新品", "body": "富士胶片（Fujifilm）拟乘年末假日消费旺季推出新款 Instax 即时成像相机，进一步巩固其在全球年轻消费群体与创意摄影市场的高增长优势。", "sourceName": "Japan News", "sourceURL": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20261125-360776/" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "page4",
+      "tabLabel": "第四面",
+      "fullLabel": "第四面｜IVD・摄影・社会",
+      "sections": [
+        {
+          "title": "IVD / 伴随诊断（CDx）与肿瘤诊疗动态",
+          "theme": "navy",
+          "layout": "single-col",
+          "items": [
+            { "title": "FoundationOne CDx 与 Liquid CDx 双轨覆盖 METex14 NSCLC", "body": "最新临床应用汇总显示，组织检测 FoundationOne CDx 与液体活检 Liquid CDx 形成双轨互补，为非小细胞肺癌（NSCLC）METex14 跳跃突变患者提供更全面的靶向用药伴随诊断覆盖。", "sourceName": "OncoDaily", "sourceURL": "https://oncodaily.com/oncolibrary/lung-oncology/foundationone-cdx" },
+            { "title": "AACR 汇总近期肿瘤新药获批，融合基因伴随诊断同步推进", "body": "美国癌症研究协会（AACR）梳理近期 FDA 肿瘤领域新批疗法，显示针对特定融合基因与驱动突变的精准治疗正持续拉动高灵敏度 NGS 伴随诊断试剂盒的临床准入。", "sourceName": "AACR", "sourceURL": "https://www.aacr.org/blog/2026/10/05/fda-approvals-in-oncology-july-september-2026/" },
+            { "title": "WCLC 数据显示 ctDNA 与 ctRNA 联合液体活检提效 38.7%", "body": "世界肺癌大会（WCLC）公布的临床研究证实，在肺癌诊疗中采用 ctDNA 与 ctRNA 同步联合液体活检策略，可显著提升融合基因及罕见突变的检出率，综合检出效能提高 38.7%。", "sourceName": "Lung Cancer Europe", "sourceURL": "https://lungcancereurope.eu/news/ctdna-ctrna-liquid-biopsy-lung-cancer" }
+          ]
+        },
+        {
+          "title": "顶级期刊前沿速递",
+          "theme": "charcoal",
+          "layout": "two-col",
+          "items": [
+            { "title": "《MDPI IJMS》发表 NSCLC 液体活检多组学综述", "body": "2026 年最新综述系统探讨了循环肿瘤 DNA（ctDNA）、外泌体及表观遗传甲基化等多组学标志物在非小细胞肺癌早筛、MRD 监测及耐药评估中的整合应用前景。", "sourceName": "MDPI IJMS", "sourceURL": "https://www.mdpi.com/1422-0067/26/23/11304" },
+            { "title": "《PMC》刊文回顾 EGFR/ROS1/KRAS 领域 7 项 FDA 新批进展", "body": "综述详细复盘了近期获批的 7 项针对 EGFR、ROS1 及 KRAS 通路的肺癌靶向与联合疗法临床试验数据，重点分析了新一代抑制剂在克服耐药突变及入脑活性上的突破。", "sourceName": "PMC", "sourceURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12873738/" }
+          ]
+        },
+        {
+          "title": "摄影技巧与器材动态",
+          "theme": "charcoal",
+          "layout": "single-col",
+          "items": [
+            { "title": "适马发布 Canon RF 卡口镜头最新固件", "body": "适马（Sigma）针对旗下多款适配佳能 RF 卡口的新锐镜头推送固件更新，优化了机身防抖协同与暗光环境下的连续自动对焦追踪稳定性。", "sourceName": "Sigma Global", "sourceURL": "https://www.sigma-global.com/en/news/2026/11/19/012422/" },
+            { "title": "尼康 ZR 2.00 固件实拍观察：未公开细节优化引关注", "body": "摄影评测机构实测尼康最新 ZR 2.00 版固件，除了官方列明的对焦与菜单改进外，还发现其在高感噪点控制与连拍缓存释放速度上存在未写入更新日志的底层优化。", "sourceName": "Camera Decision", "sourceURL": "https://cameradecision.com/blog/Nikon-ZR-Firmware-200-Is-Out-Now-With-a-Few-Changes-Nikon-Did-Not-Announce" },
+            { "title": "东京冬季点灯夜景实拍指南", "body": "本周末东京各大点灯区陆续亮灯，夜景拍摄建议使用大光圈定焦镜头（f/1.4–f/2.0）搭配低感光度与较慢快门捕捉车流光轨，并注意保留灯饰暖色调与东京塔的冷暖对比。", "sourceName": "OZmall", "sourceURL": "https://www.ozmall.co.jp/xmas/illumi/tokyo/36101/" }
+          ]
+        },
+        {
+          "title": "社会热点・时令季语（季語）与六城航线动态",
+          "theme": "charcoal",
+          "layout": "single-col",
+          "items": [
+            { "title": "日本“好温泉日”热议防热休克，两成日企拟因 AI 缩减文职校招", "body": "今日 11 月 26 日为日本“好温泉日（いい風呂の日）”，医疗机构借机科普冬季泡澡预防“热休克”温差风险；同时日媒调查显示，约两成企业计划因 AI 普及缩减文职类应届生招聘名额。", "sourceName": "圣教新闻/时事", "sourceURL": "https://www.seikyoonline.com/news/jiji/" },
+            { "title": "时令季语｜小雪（しょうせつ）・冬支度（ふゆじたく）", "body": "小雪节气已过，草木黄落、冬意渐深，日中两地皆进入“冬支度”（备冬）时节——添置暖衣、开启加湿与暖气，在渐冷的暮色中静候初冬灯火。", "sourceName": "岁时记", "sourceURL": "" },
+            { "title": "六城航线运行平稳，赴日留意退税新制筹备与离境税调整", "body": "明日上海、天津与东京、大阪、名古屋、福冈六城晴雨交替但能见度良好，主流航线预计运行平稳；近期赴日旅客需留意新免税退税制度切换筹备及离境税上调至 3 倍的政策动向。", "sourceName": "Japan Times", "sourceURL": "https://www.japantimes.co.jp/news/2026/07/01/japan/tourist-tax-increase/" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "page5",
+      "tabLabel": "第五面",
+      "fullLabel": "第五面｜日程・周末・小言",
+      "sections": [
+        {
+          "title": "明日（2026–11–27 周五）重要日程与活动预告",
+          "theme": "charcoal",
+          "layout": "two-col",
+          "items": [
+            { "title": "美股“黑色星期五”半日市提前收盘", "body": "受感恩节次日安排影响，美股三大交易所明日（27日）将于美东时间 13:00 提前休市，交投预计相对清淡。", "sourceName": "City News Service", "sourceURL": "https://www.citynewsservice.cn/articles/daily-buzz-26-november-2026-pk8vegvn" },
+            { "title": "特别欧洲理事会峰会闭幕", "body": "欧盟 27 国领导人峰会明日收官，预计就 2027 年对乌融资及欧洲央行换届方向发布正式公报。", "sourceName": "European Council", "sourceURL": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/" },
+            { "title": "Novonesis 布鲁塞尔 9M 投资者路演", "body": "生物科技巨头 Novonesis 明日在布鲁塞尔举办 9M 投资者路演会议，披露最新业务进展。", "sourceName": "Novonesis", "sourceURL": "https://www.novonesis.com/en/investors/financial-calendar" },
+            { "title": "日本北陆迎 20℃ 小春日和，关西九州夜间转雨", "body": "北陆地区明日将迎来 20℃ 上下的暖晴天气，而大阪、名古屋、福冈自午后至夜间陆续转雨。", "sourceName": "tenki.jp", "sourceURL": "https://tenki.jp/forecast/6/30/6200/27100/10days.html" },
+            { "title": "英国钢琴大师史蒂文·奥斯本福建大剧院独奏会", "body": "英国知名钢琴家史蒂文·奥斯本明日晚间在福建大剧院献演经典钢琴独奏曲目。", "sourceName": "演出详情", "sourceURL": "https://bot.taobao.com/tool-today_discovery/detail/0074805b78861636e70e7485af08eb3d.html" }
+          ]
+        },
+        {
+          "title": "【周四专栏】周末生活・美食/特展推荐（中日双城均衡）",
+          "theme": "crimson",
+          "layout": "single-col",
+          "items": [
+            { "title": "东京冬季点灯全面开启｜六本木・丸之内・台场", "body": "本周末（11/28-29）东京迎来冬日最浪漫亮灯季：六本木之丘けやき坂银白灯海与东京塔同框、丸之内仲通哈利波特主题圣诞树，以及临海副都心首次举办的「TokyoBay Light Wish」均已点亮。", "sourceName": "东京都厅 / OZmall", "sourceURL": "https://www.metro.tokyo.lg.jp/information/press/2026/11/2026111708" },
+            { "title": "上海暖冬美食与重磅特展｜蟹粉小笼包 & 上博东馆大都会珠宝展", "body": "趁着初冬蟹膏正肥，推荐品尝沪上老字号现拆鲜甜的蟹粉小笼包；饭后可探访上海博物馆东馆《环宇璀璨：大都会艺术博物馆珠宝珍藏展》，或逛浦东暖冬文旅市集感受 20℃ 小阳春。", "sourceName": "米其林指南 / 大都会", "sourceURL": "https://www.metmuseum.org/press-releases/shanghai-museum-mou-simplified-chinese" },
+            { "title": "大阪・名古屋・福冈赏枫收尾 & 初冬市集", "body": "大阪城公园与名古屋香岚溪红叶正值见顷收尾期，周末昼夜温差明显建议备好外套；福冈县各地亦同步开启初冬美食与手作市集，适合雨后漫步体验九州暖意。", "sourceName": "Crossroad Fukuoka / tenki.jp", "sourceURL": "https://www.crossroadfukuoka.jp/tw/event" },
+            { "title": "天津冬日漫步｜五大道・古文化街与暖心早点", "body": "天津本周末晴转多云、北风吹散雾霾后空气清新，适合漫步五大道洋楼群与古文化街，清晨不妨体验一碗热气腾腾的老字号早点或砂锅暖食。", "sourceName": "中国天气网", "sourceURL": "https://www.weather.com.cn/weather/101030100.shtml" }
+          ]
+        },
+        {
+          "title": "近期书影与文化速递（中日均衡）",
+          "theme": "crimson",
+          "layout": "single-col",
+          "items": [
+            { "title": "交响乐/独奏｜史蒂文·奥斯本福建大剧院独奏会 & 东京年末第九季", "body": "英国钢琴大师史蒂文·奥斯本（Steven Osborne）明日（27日）晚间在福建大剧院献演；东京三得利音乐厅等各大场馆亦同步步入年末“第九交响曲”与跨年音乐会黄金档期。", "sourceName": "演出详情", "sourceURL": "https://bot.taobao.com/tool-today_discovery/detail/0074805b78861636e70e7485af08eb3d.html" },
+            { "title": "美术馆/博物馆｜上海博物馆东馆大都会珠宝展 & 东京秋季名馆特展", "body": "上海博物馆东馆联袂纽约大都会艺术博物馆呈现《环宇璀璨：大都会艺术博物馆珠宝珍藏展》持续吸引大批观众；东京上野、六本木多家美术馆秋季特展进入后半程，适合周末错峰探访。", "sourceName": "上博 / 大都会", "sourceURL": "https://www.metmuseum.org/press-releases/shanghai-museum-mou-simplified-chinese" },
+            { "title": "歌剧/舞台｜中日年末舞台剧与剧院演出季升温", "body": "岁末将至，上海文化广场及各大剧场年末音乐剧与话剧演出排期密集；东京日比谷日生剧院及文京区场馆亦有多部经典舞台作品与传统艺能公演热演中。", "sourceName": "文旅资讯", "sourceURL": "https://m.sohu.com/a/1105352489_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334" },
+            { "title": "新书/影视｜冬季书单与时令人文纪录片推荐", "body": "冬夜渐长，适合搭配热茶阅读年末新出版的城市史随笔与科学人文新书，亦可在周末重温以东亚四季风物为主题的高分纪录片，为本周画上舒缓句点。", "sourceName": "编辑部推荐", "sourceURL": "" }
+          ]
+        }
+      ],
+      "xiaoyan": {
+        "title": "文々。小言",
+        "body": "从关东 14% 的干冽秋风到沪上 20℃ 的暖阳蟹香，十一月最后的周四正悄悄把“冬支度”和年末灯火一并摆上日程；明日再撑一天便迎周末，记得备好雨伞与润唇膏，从容迎接周五的到来。"
+      }
+    }
+  ]
+}

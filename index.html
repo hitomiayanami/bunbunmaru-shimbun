@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#B22B22" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="文々新聞" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg" />
+  <link rel="apple-touch-icon" href="./icons/icon.svg" />
+  <title>文々。新聞｜每日简报</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="top-nav">
+    <div class="top-nav-inner">
+      <div class="brand">
+        <span class="brand-seal">文々</span>
+        <span class="brand-title">文々。新聞</span>
+      </div>
+      <div class="nav-controls">
+        <select id="issue-select" aria-label="选择期数"></select>
+        <button id="notify-btn" class="notify-btn" title="推送通知状态">🔔 通知</button>
+      </div>
+    </div>
+    <nav class="tab-bar" id="desktop-tabs" aria-label="版面切换"></nav>
+  </header>
+
+  <main class="paper-shell">
+    <article class="paper-sheet" id="paper-content">
+      <div class="loading">正在加载今日报纸…</div>
+    </article>
+  </main>
+
+  <nav class="mobile-bottom-tabs" id="mobile-tabs" aria-label="移动端版面切换"></nav>
+
+  <script src="./issues/fallback-data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
