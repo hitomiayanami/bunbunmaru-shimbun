@@ -2,15 +2,40 @@
   --bg-page: #f3eee4;
   --bg-paper: #faf6ee;
   --bg-card: #f3efe6;
+  --bg-nav: rgba(250, 246, 238, 0.94);
+  --bg-bottom-nav: rgba(250, 246, 238, 0.96);
+  --bg-select: #ffffff;
   --border-card: #dfd9ce;
   --crimson: #b22b22;
   --navy: #1b3b6f;
   --charcoal: #1f242d;
+  --bar-charcoal: #1f242d;
+  --masthead-ink: #1f242d;
   --link-blue: #2a6099;
   --text-dark: #222222;
   --text-muted: #5c5954;
   --font-sans: "PingFang SC", "Hiragino Sans GB", "Hiragino Sans", -apple-system, BlinkMacSystemFont, sans-serif;
   --font-serif: "Hiragino Mincho ProN", "Songti SC", "Noto Serif JP", serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-page: #141311;
+    --bg-paper: #1d1b18;
+    --bg-card: #26231f;
+    --bg-nav: rgba(29, 27, 24, 0.94);
+    --bg-bottom-nav: rgba(29, 27, 24, 0.96);
+    --bg-select: #26231f;
+    --border-card: #38332d;
+    --crimson: #d94e43;
+    --navy: #244a85;
+    --charcoal: #e3dcd0;
+    --bar-charcoal: #2e323b;
+    --masthead-ink: #e3dcd0;
+    --link-blue: #6ca8e5;
+    --text-dark: #eae3d5;
+    --text-muted: #b0a89b;
+  }
 }
 
 * {
@@ -31,7 +56,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 50;
-  background: rgba(250, 246, 238, 0.94);
+  background: var(--bg-nav);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border-card);
 }
@@ -66,7 +91,7 @@ body {
   font-family: var(--font-serif);
   font-size: 17px;
   font-weight: 700;
-  color: var(--charcoal);
+  color: var(--masthead-ink);
   letter-spacing: 1px;
 }
 
@@ -82,7 +107,7 @@ body {
   padding: 5px 10px;
   border: 1px solid var(--border-card);
   border-radius: 6px;
-  background: #fff;
+  background: var(--bg-select);
   color: var(--text-dark);
 }
 
@@ -141,7 +166,7 @@ body {
 .paper-sheet {
   background: var(--bg-paper);
   border: 1px solid var(--border-card);
-  box-shadow: 0 6px 24px rgba(31, 36, 45, 0.06);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
   padding: 24px 26px 28px;
   border-radius: 4px;
 }
@@ -187,13 +212,13 @@ body {
 .masthead-box {
   width: 66px;
   flex-shrink: 0;
-  border: 2px solid var(--charcoal);
+  border: 2px solid var(--masthead-ink);
   padding: 3px;
   text-align: center;
 }
 
 .masthead-inner {
-  border: 1px solid var(--charcoal);
+  border: 1px solid var(--masthead-ink);
   padding: 8px 4px;
   display: flex;
   flex-direction: column;
@@ -206,7 +231,7 @@ body {
   font-size: 19px;
   line-height: 1.25;
   font-weight: 700;
-  color: var(--charcoal);
+  color: var(--masthead-ink);
   writing-mode: vertical-rl;
   letter-spacing: 3px;
 }
@@ -236,7 +261,7 @@ body {
 
 .section-bar.navy { background: var(--navy); }
 .section-bar.crimson { background: var(--crimson); }
-.section-bar.charcoal { background: var(--charcoal); }
+.section-bar.charcoal { background: var(--bar-charcoal); }
 
 /* Weather Grid */
 .weather-grid {
@@ -405,7 +430,7 @@ a.source-link:hover {
     left: 0;
     right: 0;
     z-index: 60;
-    background: rgba(250, 246, 238, 0.96);
+    background: var(--bg-bottom-nav);
     backdrop-filter: blur(10px);
     border-top: 1px solid var(--border-card);
     padding: 6px 8px calc(6px + env(safe-area-inset-bottom));
