@@ -12,6 +12,18 @@
   <link rel="apple-touch-icon" href="./icons/icon.svg" />
   <title>文々。新聞｜每日简报</title>
   <link rel="stylesheet" href="./style.css" />
+
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(async function(OneSignal) {
+      await OneSignal.init({
+        appId: "7c12ef05-e95e-449a-ac91-a7a2c2531392",
+        serviceWorkerParam: { scope: "/bunbunmaru-shimbun/" },
+        serviceWorkerPath: "/bunbunmaru-shimbun/OneSignalSDKWorker.js"
+      });
+    });
+  </script>
 </head>
 <body>
   <header class="top-nav">
